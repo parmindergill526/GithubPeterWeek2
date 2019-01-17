@@ -32,6 +32,7 @@ namespace peter_Week2
         public Method(string a, int b)
         {
             Console.WriteLine("{0},{1}", a, b);
+            int k = 5;
         }
     }
 }
